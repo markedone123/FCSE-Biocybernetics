@@ -4,10 +4,3 @@
 
 [![Binder](https://github.com/zelenkastiot/binder_badges/blob/master/badges/covid19book-badge.svg)](https://mybinder.org/v2/gh/zelenkastiot/COVID-19_book/master?urlpath=lab/tree/content/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CiiyvS2x_6rDYZqDF9ioTrFKxT7b5QRz?usp=sharing%2Fgithub%2Fzelenkastiot%2FCOVID-19_book%2Fblob%2Fmaster%2Fcontent%2F02_codingSIR%2F2_scenario.ipynb)
-
-**Проект** 
-
-- **Ментори**: Акад. д-р Љупчо Коцарев, д-р Ласко Баснарков<br>
-- **Студенти:** Филип Карафилоски, Кирил Зеленковски <br>
-- **Тема**: Репродусибилна Jupyter книга (достапна [тука](https://github.com/zelenkastiot/COVID-19_book)) за кратко истражување повразно со параметрите на SIR модел, нивното меѓусебно влијание претставено со интерактивни графици, *Curve Fitting* за COVID-19 податоци за *Италија* 
-- **Клучни зборови**: Python, Plotly, SIR, Covid-19, Curve Fitting
