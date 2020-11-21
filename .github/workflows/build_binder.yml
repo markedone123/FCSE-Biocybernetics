@@ -2,7 +2,7 @@ name: Automatic build Binder
 on:
   push:
     branches:
-      - master  
+      - main  
 
 jobs:
   Create-MyBinderOrg-Cache:
